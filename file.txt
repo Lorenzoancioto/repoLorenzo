@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 alteracao 01
-alteracao 02
 alteracao 03
-=======
-alteracao 01
->>>>>>> parent of cce1fec (alt 02)
+alteração 04
+alteração 05
